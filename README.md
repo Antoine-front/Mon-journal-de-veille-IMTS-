@@ -10,6 +10,12 @@ https://developer.mozilla.org/fr/docs/Glossary/Baseline
 **Description :**
 Baseline identifie la disponibilité des fonctionnalités de la plateforme web dans les principaux navigateurs, y compris les API, les propriétés CSS et la syntaxe JavaScript. Baseline décrit les fonctionnalités web comme étant soit largement disponibles, soit nouvellement disponibles. Les fonctionnalités qui ne répondent pas aux critères Baseline sont considérées comme ayant une disponibilité limitée.
 
+l'ANCIENNE : Les fonctionnalités indiquées comme largement disponibles bénéficient d'un historique de prise en charge cohérent dans chacun des navigateurs Baseline depuis au moins 2,5 ans.
+LA NOUVELLE : Les fonctionnalités indiquées comme nouvellement disponibles fonctionnent au moins dans la dernière version stable de chacun des navigateurs Baseline, mais peuvent ne pas fonctionner avec des navigateurs ou appareils plus anciens.
+
+**Pourquoi c'est utile pour un développeur**
+Pour voir la conptabilité de notre site avec les navigateurs.
+
 
 ## 30 oct 2026 - Veille sur les mots de passe
 
