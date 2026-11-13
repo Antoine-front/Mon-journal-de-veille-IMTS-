@@ -2,6 +2,15 @@
 # Mon journal de veille
 
 
+## 13 nov 2026 - Veille sur le mot Baseline
+
+**Sources :**
+https://developer.mozilla.org/fr/docs/Glossary/Baseline
+
+**Description :**
+Baseline identifie la disponibilité des fonctionnalités de la plateforme web dans les principaux navigateurs, y compris les API, les propriétés CSS et la syntaxe JavaScript. Baseline décrit les fonctionnalités web comme étant soit largement disponibles, soit nouvellement disponibles. Les fonctionnalités qui ne répondent pas aux critères Baseline sont considérées comme ayant une disponibilité limitée.
+
+
 ## 30 oct 2026 - Veille sur les mots de passe
 
 **Sources :**
