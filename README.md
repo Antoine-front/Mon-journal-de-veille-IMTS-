@@ -1,6 +1,21 @@
 
 # Mon journal de veille
 
+## 20 nov 2026 - Veille sur l'évolution de Javascript
+
+**Sources :**
+https://tc39.es/fr/ => site du site
+https://tc39.es/process-document/ => site des étapes de son fonctionnement
+
+**Ce que j'ai appris**
+Qui : Le TC39 d'Ecma International est un groupe de développeurs JavaScript, d'implémenteurs, d'universitaires et autres, qui collaborent avec la communauté pour maintenir et faire évoluer la définition de JavaScript.
+
+Comment : Les changements apportés à la langue sont développés par le biais d'un processus qui fournit des directives pour faire évoluer un ajout d'une idée à une fonctionnalité entièrement spécifiée, avec des tests d'acceptation et plusieurs implémentations. Il y a six étapes: une étape de paille et cinq étapes de maturité. Le comité doit approuver des propositions de progression à chaque étape. 
+
+**Ce que j'ai appris**
+Car ça permet de savoir qui vérifie le langage que nous utilisons quotidiennement.
+
+
 
 ## 13 nov 2026 - Veille sur le mot Baseline
 
